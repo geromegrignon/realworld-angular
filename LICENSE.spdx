@@ -1,0 +1,16 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+PackageName: realworld-angular
+DataFormat: SPDXRef-1
+PackageSupplier: Organization: RealWorld Angular
+PackageHomePage: https://realworldangular.org
+PackageLicenseDeclared: Apache-2.0
+PackageLicenseDeclared: CC-BY-NC-ND
+PackageCopyrightText: 2019-2024, RealWorld Angular
+PackageSummary: <text>RealWorld Angular</text>
+PackageComment: <text>RealWorld Angular</text>
+Created: 2019-05-20T09:00:00Z
+PackageDownloadLocation: git://github.com/geromegrignon/realworld-angular
+PackageDownloadLocation: git+https://github.com/geromegrignon/realworld-angular.git
+PackageDownloadLocation: git+ssh://github.com/geromegrignon/realworld-angular.git
+Creator: Person: Gerome Grignon
